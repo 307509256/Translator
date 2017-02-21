@@ -4,13 +4,13 @@
 
 # Done
 
-- [x]Translate EN-CN 、CN-EN、 EN-EN
+- [x] Translate EN-CN 、CN-EN、 EN-EN
 
 # To do list
 
-- []添加travis-ci 
-- []添加测试脚本
-- []添加自动部署脚本
+- [ ]添加travis-ci 
+- [ ]添加测试脚本
+- [ ]添加自动部署脚本
 
 
 # License
